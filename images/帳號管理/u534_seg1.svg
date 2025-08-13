@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="181px" preserveAspectRatio="xMidYMin meet" viewBox="1408 284 8 181" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 410 289  L 1407 289  A 5 5 0 0 1 1412 294 L 1412 455  A 5 5 0 0 0 1417 460 L 1431 460  " stroke-width="2" stroke-dasharray="0" stroke="rgba(217, 0, 27, 1)" fill="none" class="stroke" />
-  <path d="M 1425.8928932188135 455.70710678118655  L 1430.185786437627 460  L 1425.8928932188135 464.29289321881345  L 1427.3071067811863 465.70710678118655  L 1432.3071067811863 460.70710678118655  L 1433.0142135623728 460  L 1432.3071067811863 459.29289321881345  L 1427.3071067811863 454.29289321881345  L 1425.8928932188135 455.70710678118655  Z " fill-rule="nonzero" fill="rgba(217, 0, 27, 1)" stroke="none" class="fill" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="2032 856 20 18" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 2042 694  L 2042 865  " stroke-width="2" stroke-dasharray="0" stroke="rgba(217, 0, 27, 1)" fill="none" class="stroke" />
+  <path d="M 2046.2928932188136 859.8928932188135  L 2042 864.185786437627  L 2037.7071067811864 859.8928932188135  L 2036.2928932188136 861.3071067811866  L 2041.2928932188136 866.3071067811866  L 2042 867.014213562373  L 2042.7071067811864 866.3071067811866  L 2047.7071067811864 861.3071067811866  L 2046.2928932188136 859.8928932188135  Z " fill-rule="nonzero" fill="rgba(217, 0, 27, 1)" stroke="none" class="fill" />
 </svg>
