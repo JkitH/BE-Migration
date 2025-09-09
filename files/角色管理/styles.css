@@ -9844,24 +9844,33 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:112px;
-  height:173px;
+  width:65px;
+  height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
   filter:drop-shadow(none);
   transition:none;
+  font-family:"PingFangTC-Regular", "PingFang TC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
 }
 #u809 {
   border-width:0px;
   position:absolute;
-  left:111px;
-  top:255px;
-  width:112px;
-  height:173px;
+  left:1472px;
+  top:153px;
+  width:65px;
+  height:22px;
   display:flex;
+  opacity:0.66;
   transition:none;
   transform-origin:50% 50%;
+  font-family:"PingFangTC-Regular", "PingFang TC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
 }
 #u809 .text {
   position:absolute;
@@ -9887,8 +9896,8 @@
   border-radius:0px;
   filter:drop-shadow(none);
   transition:none;
-  font-family:"PingFangTC-Regular", "PingFang TC", sans-serif;
-  font-weight:400;
+  font-family:"PingFangTC-Semibold", "PingFang TC Semibold", "PingFang TC", sans-serif;
+  font-weight:650;
   font-style:normal;
   font-size:16px;
 }
@@ -9896,15 +9905,14 @@
   border-width:0px;
   position:absolute;
   left:1472px;
-  top:153px;
+  top:185px;
   width:65px;
   height:22px;
   display:flex;
-  opacity:0.66;
   transition:none;
   transform-origin:50% 50%;
-  font-family:"PingFangTC-Regular", "PingFang TC", sans-serif;
-  font-weight:400;
+  font-family:"PingFangTC-Semibold", "PingFang TC Semibold", "PingFang TC", sans-serif;
+  font-weight:650;
   font-style:normal;
   font-size:16px;
 }
@@ -9925,15 +9933,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:65px;
+  width:97px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
   filter:drop-shadow(none);
   transition:none;
-  font-family:"PingFangTC-Semibold", "PingFang TC Semibold", "PingFang TC", sans-serif;
-  font-weight:650;
+  font-family:"PingFangTC-Regular", "PingFang TC", sans-serif;
+  font-weight:400;
   font-style:normal;
   font-size:16px;
 }
@@ -9941,14 +9949,15 @@
   border-width:0px;
   position:absolute;
   left:1472px;
-  top:185px;
-  width:65px;
+  top:217px;
+  width:97px;
   height:22px;
   display:flex;
+  opacity:0.66;
   transition:none;
   transform-origin:50% 50%;
-  font-family:"PingFangTC-Semibold", "PingFang TC Semibold", "PingFang TC", sans-serif;
-  font-weight:650;
+  font-family:"PingFangTC-Regular", "PingFang TC", sans-serif;
+  font-weight:400;
   font-style:normal;
   font-size:16px;
 }
@@ -9969,33 +9978,32 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:97px;
-  height:22px;
+  width:101px;
+  height:126px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
   filter:drop-shadow(none);
   transition:none;
-  font-family:"PingFangTC-Regular", "PingFang TC", sans-serif;
+  font-family:"PingFangHK-Regular", "PingFang HK", sans-serif;
   font-weight:400;
   font-style:normal;
-  font-size:16px;
+  color:#000000;
 }
 #u812 {
   border-width:0px;
   position:absolute;
-  left:1472px;
-  top:217px;
-  width:97px;
-  height:22px;
+  left:111px;
+  top:255px;
+  width:101px;
+  height:126px;
   display:flex;
-  opacity:0.66;
   transition:none;
   transform-origin:50% 50%;
-  font-family:"PingFangTC-Regular", "PingFang TC", sans-serif;
+  font-family:"PingFangHK-Regular", "PingFang HK", sans-serif;
   font-weight:400;
   font-style:normal;
-  font-size:16px;
+  color:#000000;
 }
 #u812 .text {
   position:absolute;
@@ -10014,24 +10022,32 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:112px;
-  height:173px;
+  width:101px;
+  height:126px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
   filter:drop-shadow(none);
   transition:none;
+  font-family:"PingFangHK-Regular", "PingFang HK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
 }
 #u813 {
   border-width:0px;
   position:absolute;
-  left:1449px;
-  top:256px;
-  width:112px;
-  height:173px;
+  left:1443px;
+  top:257px;
+  width:101px;
+  height:126px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
+  font-family:"PingFangHK-Regular", "PingFang HK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
 }
 #u813 .text {
   position:absolute;
